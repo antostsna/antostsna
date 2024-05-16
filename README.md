@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Haryanto
-- 👀 I’m interested in Apps developer using python and c++
-- 🌱 I’m currently learning fisheye image processing
+- I’m interested in Apps development using Python and C++
+- I’m currently learning fisheye image processing
